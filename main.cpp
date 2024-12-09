@@ -302,6 +302,7 @@ void printHistogram(DICTION &d)
 	printChar(amountOfWords, '^');
 	cout << endl;
 	
+
 	// just read it
 	int amountOfDash = 0;
 	int amountOfLine = amountOfWords;
