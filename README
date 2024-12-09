@@ -1,0 +1,19 @@
+Name: JehadMHamad
+work done on vscode so no sln file sorry
+assignment number:Lab 7 project 1
+
+what is the assignment doing:
+reading from file and getting stats and histogram
+
+how to build your program: g++ main.cpp -o Proj1
+                          ./Proj1 < file.txt
+
+how to use your program:
+Just follow my program instructions.
+
+issues:
+i was too tired to put my functions in thier own file and make a header.
+i hope you can forgive me because this is the last lab
+
+i bearly use longword aswell as i just make a vector of pairs that has my freqWords sorted and use that instead.
+
